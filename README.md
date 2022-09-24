@@ -1,5 +1,5 @@
 
-# PRODUCT FORECASTING USING FB PROPHET
+# [PRODUCT FORECASTING USING FB PROPHET](https://vaibhavsaran.github.io/FB-PROPHET-TESLA-TOY-DATASET/)
 
 ## Acknowledgements
 I take this opportunity to express my sincere thanks to [Data Science Dojo](https://www.youtube.com/watch?v=wXS9IzDjuZQ&t=321s) and Mr. Nicholas Renotte for conducting an amazing webinar on FB prophet where I got to learn about this amazing framework by Facebook. Following the instructions I worked on the same dataset as in the webinar and got a thorough understanding of many concepts.
